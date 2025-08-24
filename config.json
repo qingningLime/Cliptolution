@@ -1,0 +1,27 @@
+{
+  "api_keys": {
+    "deepseek": "deepseek-api-key",
+    "alibaba_bailian": "alibaba_bailian-api-key"
+  },
+  "services": {
+    "ollama": {
+      "host": "http://127.0.0.1:11434",
+      "timeout": 300,
+      "vision_model": "qwen2.5vl:3b"
+    }
+  },
+  "tts": {
+    "model": "cosyvoice-v2",
+    "voice": "kabuleshen_v2"
+  },
+  "models": {
+    "whisper_path": "video/models/Faster-Whisper",
+    "default_chat_model": "deepseek-chat",
+    "default_reasoner_model": "deepseek-reasoner"
+  },
+  "settings": {
+    "max_tool_chain": 15,
+    "tool_timeout": 60,
+    "temp_dir": "video/temp"
+  }
+}
