@@ -8,6 +8,9 @@
 - 自动生成结构化报告
 - 实时监控输入目录处理新视频
 
+## 项目介绍
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115088967075328&bvid=BV1RDe9z2Esa&cid=31934057436&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
 ## 目录结构
 ```
 video/
