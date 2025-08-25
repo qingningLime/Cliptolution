@@ -11,6 +11,9 @@
 3. 识别纯音乐，生成音乐内容分析等。
 4. 通过多步骤交互式工作流，完成复杂的创意视频创作任务，比如制作影视作品的人物解析视频，给动漫制作mad视频等。
 
+## 视频演示
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115088967075328&bvid=BV1RDe9z2Esa&cid=31934057436&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
 ## 写在前面
 本项目的所有剪辑效果和功能演示可以本人的bilibili账户中查看：[bilibili:清咛lime](https://space.bilibili.com/356616145)
 
